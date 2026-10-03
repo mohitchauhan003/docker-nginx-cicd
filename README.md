@@ -2,7 +2,7 @@
 
 A static website containerized with **Docker**, pushed to **Docker Hub**, and automatically rebuilt and redeployed using a **GitHub Actions** CI/CD pipeline, triggered on every code push.
 
-Built by:** Mohit Chauhan
+Built by: Mohit Chauhan
 
 ---
 
